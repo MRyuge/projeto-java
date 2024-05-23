@@ -1,8 +1,4 @@
-Entendi, Ryuge! Vou corrigir o README para que a formatação seja preservada quando você copiar e colar.
-
----
-
-# Projeto Spring Boot
+# Projeto Pedido Spring Boot
 
 ## Tecnologias Utilizadas
 
